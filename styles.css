@@ -13,6 +13,23 @@ header {
   text-align: center;
 }
 
+h1 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+.logo {
+  height: 50px;
+  width: auto;
+  vertical-align: middle;
+}
+
+.logo-link {
+  display: inline-block;
+  text-decoration: none;
+}
+
 nav {
   margin-top: 0.5rem;
 }
